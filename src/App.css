@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.mid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards-align {
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 1px 2px 9px #6c757d;
+  margin-top: 100px;
+  margin-bottom: 15px;
+}
